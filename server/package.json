@@ -1,0 +1,15 @@
+{
+  "name": "graphql",
+  "version": "1.0",
+  "description": "graphql server",
+  "main": "index.js",
+  "author": "venkat kadiri",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.6.0",
+    "nodemon": "^2.0.13"
+  }
+}
